@@ -1,1 +1,2 @@
 This is master
+Feature 2 is added
